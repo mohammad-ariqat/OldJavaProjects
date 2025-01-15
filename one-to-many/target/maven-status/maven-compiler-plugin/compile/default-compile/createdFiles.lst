@@ -1,0 +1,4 @@
+com\mycompany\one\to\many\Student.class
+com\mycompany\one\to\many\dept.class
+com\mycompany\one\to\many\Teacher.class
+com\mycompany\one\to\many\OneToMany.class
